@@ -23,3 +23,4 @@ A Windows utility tool for encoding and patching company name strings inside com
 - No installation required — standalone executable
 
 ## Build from Source
+dotnet publish ExeEncryptor/ExeEncryptor.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true
