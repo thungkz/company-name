@@ -1,0 +1,18 @@
+# Visual Studio / .NET build artifacts
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+
+# Debug symbols
+*.pdb
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
